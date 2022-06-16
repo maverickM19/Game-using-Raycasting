@@ -1,5 +1,5 @@
 # Raycaster/Game
 
-Simple ray casting using SFML with no experience
+Made a ray casting game(sort of) using SFML with no experience
 
 ![](RESOURCES/illustration.png)
